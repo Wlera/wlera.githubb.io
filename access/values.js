@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "21.04.2004"; // Дата рождения
-var fullname = "Сахарова Валерія Василька" // ФИО
+var fullname = "Сахарова Валерія Василівна" // ФИО
 var name = "Валерія" // Имя
 
 // Паспорт
